@@ -1,4 +1,4 @@
-# CMIP6 Coupler history-file integrations
+# CESM ocean-ice integrations using CMIP6 coupler history-file output
 
 This repository contains utilities to support running ocean-ice integrations using output from the CESM coupler generated during the fully coupled CMIP6 integrations.
 
