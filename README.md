@@ -2,6 +2,12 @@
 
 This repository contains utilities to support running ocean-ice integrations using output from the CESM coupler generated during the fully coupled CMIP6 integrations.
 
+## To install Python environment
+```bash
+conda env create -f environment.yml
+```
+
+
 ## Procedure
 
 1. Specify the CMIP6 coupled cases to replicate in [cplhist-cases.yml](./notebooks/cplhist-cases.yml).
