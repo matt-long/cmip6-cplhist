@@ -1,0 +1,15 @@
+archive_root: /glade/scratch/mclong/archive/cplhist.e21.BHIST.f09_g17.CMIP6-historical.011.001
+case: cplhist.e21.BHIST.f09_g17.CMIP6-historical.011.001
+caseroot: /glade/work/mclong/cmip6-cplhist/cases/cplhist.e21.BHIST.f09_g17.CMIP6-historical.011.001
+compset: 1850_DATM%CPLHIST_SLND_CICE_POP2%ECO_DROF%CPLHIST_SGLC_WW3
+description: '
+
+  First attempt a generating CPLHIST case.
+
+  Aim is to "replicate" original coupled integration, i.e., no substantial
+
+  configuration changes, except CPLHIST forcing and transient salinity restoring.
+
+  '
+resolution: f09_g17
+rundir: /glade/scratch/mclong/cplhist.e21.BHIST.f09_g17.CMIP6-historical.011.001
