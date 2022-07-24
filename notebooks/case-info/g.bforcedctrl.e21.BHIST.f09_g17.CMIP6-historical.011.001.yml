@@ -1,0 +1,9 @@
+archive_root: /glade/scratch/mclong/archive/g.bforcedctrl.e21.BHIST.f09_g17.CMIP6-historical.011.001
+case: g.bforcedctrl.e21.BHIST.f09_g17.CMIP6-historical.011.001
+caseroot: /glade/work/mclong/cmip6-cplhist/cases/g.bforcedctrl.e21.BHIST.f09_g17.CMIP6-historical.011.001
+compset: 1850_DATM%CPLHIST_SLND_CICE_POP2%ECO_DROF%CPLHIST_SGLC_WW3
+description: "\nCPLHIST control case.\nThe 001 test was getting CO2 from the ha2x3h\
+  \ stream due to:\n  atm_co2_opt = 'drv_diag'\nIn 002, changing this setting to:\n\
+  \  atm_co2_opt = 'constant'\n"
+resolution: f09_g17
+rundir: /glade/scratch/mclong/g.bforcedctrl.e21.BHIST.f09_g17.CMIP6-historical.011.001

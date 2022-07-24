@@ -5,3 +5,14 @@ historical:
     member_id: 11
     parent_experiment: b.e21.B1850.f09_g17.CMIP6-piControl.001
     parent_branch_year: 871
+    yr_lo: 1850
+    yr_hi: 2014
+    
+SSP5-8.5:
+    case: b.e21.BSSP585cmip6.f09_g17.CMIP6-SSP5-8.5.102
+    member_id: 102
+    parent_experiment: b.e21.BHIST.f09_g17.CMIP6-historical.011
+    parent_branch_year: 2015
+    yr_lo: 2015
+    yr_hi: 2100
+    

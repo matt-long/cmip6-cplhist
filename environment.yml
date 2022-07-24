@@ -8,6 +8,7 @@ dependencies:
   - cartopy
   - cf_units
   - cftime
+  - click==8.0.2
   - cmocean
   - conda-lock
   - dask

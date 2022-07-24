@@ -1,0 +1,8 @@
+archive_root: /glade/scratch/mclong/archive/g.bforced.ctrl.e21.BHIST.f09_g17.CMIP6-historical.011.001
+case: g.bforced.ctrl.e21.BHIST.f09_g17.CMIP6-historical.011.001
+caseroot: /glade/work/mclong/cmip6-cplhist/cases/g.bforced.ctrl.e21.BHIST.f09_g17.CMIP6-historical.011.001
+compset: 1850_DATM%CPLHIST_SLND_CICE_POP2%ECO_DROF%CPLHIST_SGLC_WW3
+description: "\nCPLHIST 1850 control with salinity restoring. \nFirst full test with\
+  \ S restoring operational.\n"
+resolution: f09_g17
+rundir: /glade/scratch/mclong/g.bforced.ctrl.e21.BHIST.f09_g17.CMIP6-historical.011.001
